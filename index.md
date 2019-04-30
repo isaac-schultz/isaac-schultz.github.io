@@ -1,4 +1,4 @@
-## Hi, it's Isaac.
+Isaac Schultz
 
 This site is just getting started, so you'll have to give me a couple days and a few headlines before things start looking a bit more reputable.
 

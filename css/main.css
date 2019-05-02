@@ -1,3 +1,42 @@
+    @media screen and (max-width: 850px) { /*mobile*/
+      #topnav {
+        display: none;
+        clear:left;
+      }
+      #topnav a{
+        float: none;
+        display: block;
+        text-align: center;
+      }
+      .menu-trigger {
+        float: left;
+        display: block;
+        width: 100%;
+      }
+      #bio {
+        text-align: justify;
+        margin-top: 10px;
+        margin-bottom: 10px;
+      }
+      #af_inspo {
+        text-align: justify;
+        margin-top: 10px;
+        margin-bottom: 10px;
+      }
+      #command {
+        margin-top: 10px;
+      }
+      #say_hi {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        text-align: justify;
+      }
+      .bottom-nav img {
+        padding-left: 10px;
+        padding-right: 10px;
+      }
+    }
+
 body {
     margin: 60px auto;
     width: 70%;
@@ -41,42 +80,3 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-
-    @media screen and (max-width: 850px) { /*mobile*/
-      #topnav {
-        display: none;
-        clear:left;
-      }
-      #topnav a{
-        float: none;
-        display: block;
-        text-align: center;
-      }
-      .menu-trigger {
-        float: left;
-        display: block;
-        width: 100%;
-      }
-      #bio {
-        text-align: justify;
-        margin-top: 10px;
-        margin-bottom: 10px;
-      }
-      #af_inspo {
-        text-align: justify;
-        margin-top: 10px;
-        margin-bottom: 10px;
-      }
-      #command {
-        margin-top: 10px;
-      }
-      #say_hi {
-        margin-top: 10px;
-        margin-bottom: 10px;
-        text-align: justify;
-      }
-      .bottom-nav img {
-        padding-left: 10px;
-        padding-right: 10px;
-      }
-    }
